@@ -1,0 +1,6 @@
+.modal-content-container {
+    position: relative;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+}

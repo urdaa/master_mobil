@@ -1,0 +1,13 @@
+.observation-icon {
+    border: 2px rgba(0,0,0,0.1) solid;
+    border-radius: 3em;
+    padding: 1px;
+}
+
+.icon-bgcolor-green {
+    background-color: #005914;
+}
+
+.icon-bgcolor-light {
+    background-color: #f4f5f8;
+}

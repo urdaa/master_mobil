@@ -1,0 +1,14 @@
+.text-div-total {
+    display: flex;
+    justify-content: space-around;
+}
+
+.total-swiper {
+    height: calc(100vh - 262px);
+    display: flex;
+}
+
+.sheep-number-total {
+    margin-top: 5px;
+    margin-bottom: 0px;
+}

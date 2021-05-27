@@ -1,0 +1,19 @@
+.wounded-obs-div {
+    position: relative;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.wounded-obs-div-content {
+    padding: 5%;
+}
+
+.wounded-head {
+    font-size: 2em;
+    text-align: center;
+}
+
+.extra-padding-bottom {
+    padding-bottom: 30px;
+}

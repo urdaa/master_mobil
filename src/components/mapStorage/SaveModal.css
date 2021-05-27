@@ -1,0 +1,41 @@
+.content-save {
+    margin: auto;
+}
+
+.save-modal {
+    background: rgba(0, 0, 0, 0.5) !important;
+    padding: 20% 5%  !important;
+    --border-radius: 25px;
+}
+
+
+.save-buttons {
+    display: block;
+    margin-top:20px;
+}
+
+.info-div {
+    text-align: left;
+    font-size: 0.7em;
+    margin-bottom: 50px;
+}
+
+.title {
+    font-size: 2.4em;
+    text-align: center;
+}
+
+.name-input {
+    margin-bottom: 60px;
+    font-size: 1.2em;
+}
+
+.save-p {
+    font-size: 1em;
+}
+
+.progress-bar {
+    margin-bottom: 30px;
+}
+
+

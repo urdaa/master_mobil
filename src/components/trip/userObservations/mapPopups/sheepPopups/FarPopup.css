@@ -1,0 +1,28 @@
+.far-obs-popup {
+    width: 180px;
+}
+
+.row-top {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sheep {
+    transform: translate(0, 0) !important;
+}
+
+.background-circle {
+    display: block;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    padding: 10px;
+
+    background-color: grey;
+}
+
+.sheep-and-number {
+    text-align: center;
+    width: 50px;
+    font-size: 2.2em;
+}

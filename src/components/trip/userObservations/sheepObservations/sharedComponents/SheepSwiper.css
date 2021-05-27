@@ -1,0 +1,39 @@
+.sheep-swiper-div{
+    position: relative;
+    flex: 1;
+}
+
+.swiper-icon {
+    font-size: 4em;
+    position: absolute;
+}
+
+.sheep-icon {
+    width: 70px !important;
+    transform: translate(0, -50%);
+}
+
+.plus {
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, -50%);
+}
+
+.minus {
+    left: 50%;
+    bottom: 0;
+    transform: translate(-50%, -50%);
+}
+
+.chevron-up {
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 30%;
+}
+
+.chevron-down {
+    left: 50%;
+    transform: translate(-50%, -50%);
+    bottom: 30%;
+}
+

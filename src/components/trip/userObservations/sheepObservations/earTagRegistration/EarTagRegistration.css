@@ -1,0 +1,15 @@
+.tag-reg-card-sub {
+    line-height: 25px;
+    display: flex;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.tag-reg-span {
+    margin-left: 15px;
+}
+
+.tag-reg-label {
+    font-weight: bold;
+    text-align: center;
+}

@@ -1,0 +1,21 @@
+.text-div-bw {
+    display: flex;
+    justify-content: space-around;
+}
+
+.black-white-swipers-close {
+    height: calc(100vh - 262px);
+    display: flex;
+}
+
+.black-white-swipers-far {
+    height: calc(100vh - 209px);
+    display: flex;
+}
+
+.sheep-number {
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+

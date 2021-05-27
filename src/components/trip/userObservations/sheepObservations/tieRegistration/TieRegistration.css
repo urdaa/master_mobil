@@ -1,0 +1,13 @@
+.tie-registration-div {
+    background-color: #f2f2f2;
+    height: calc(100vh - 200px);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding-bottom: 20px;
+}
+
+.tie-registration-row {
+    display: flex;
+    justify-content: space-between;
+}

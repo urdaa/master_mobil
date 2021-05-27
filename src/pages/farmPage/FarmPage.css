@@ -1,0 +1,33 @@
+.farm-button-div {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.farm-button {
+    height: 40px;
+    width: 210px;
+    font-size: 16px;
+}
+
+.farm-divider-no-padding {
+    --padding-start: 0px;
+    --padding-end: 0px;
+}
+
+.farm-page-ear-tag-span {
+    margin-left: 15px;
+}
+
+.farm-page-card-sub {
+    line-height: 25px;
+    display: flex;
+    text-align: center;
+}
+
+.farm-page-farm-icon {
+    font-size: 18px !important;
+    margin-bottom: 3px;
+}

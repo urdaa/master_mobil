@@ -1,0 +1,15 @@
+.predator-obs-div {
+    position: relative;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.predator-obs-div-content {
+    padding: 5%;
+}
+
+.predator-head {
+    font-size: 2em;
+    text-align: center;
+}

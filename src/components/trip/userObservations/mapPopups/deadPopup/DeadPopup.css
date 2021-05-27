@@ -1,0 +1,13 @@
+.dead-text-background {
+    display: block;
+    max-width: 60vw;
+    padding: 10px 15px 10px 15px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    background-color: #f7f7f7;
+}
+
+.p-no-margin {
+    margin-top: 0px!important;
+    margin-bottom: 0px!important;
+}

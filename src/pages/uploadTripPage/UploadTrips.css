@@ -1,0 +1,12 @@
+.upload-item-div {
+    display: flex;
+    align-items: center;
+}
+
+.no-bot-pad {
+    padding-bottom: 0;
+}
+
+.upload-padding-right {
+    margin-right: 10px;
+}

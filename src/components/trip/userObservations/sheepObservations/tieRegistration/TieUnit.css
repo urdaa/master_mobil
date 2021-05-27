@@ -1,0 +1,32 @@
+.tie-unit-div {
+    display: flex;
+    flex-direction: column;
+}
+
+.tie-image {
+    max-width: 80px;
+}
+
+.tie-and-buttons {
+    display: flex;
+    margin-right: 15px;
+}
+
+.tie-unit-buttons {
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+}
+
+.tie-unit-count {
+    font-weight: bold;
+    font-size: 3em;
+    margin-top: 0px;
+    margin-right: 22px;
+    margin-bottom: 0px;
+}
+
+.tie-unit-count-div {
+    display: flex;
+    justify-content: center;
+}

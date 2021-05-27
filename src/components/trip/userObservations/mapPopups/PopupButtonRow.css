@@ -1,0 +1,8 @@
+.popup-obs-button-row{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.trash-icon {
+    font-size: 3em;
+}

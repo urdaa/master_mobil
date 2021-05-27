@@ -1,0 +1,20 @@
+.instructions-modal {
+    background: rgba(0, 0, 0, 0.5) !important;
+    padding: 20% 5%  !important;
+    --border-radius: 25px;
+}
+
+.instructions-slides {
+    width: 100%;
+    height: 100%;
+}
+
+.slide-content {
+    margin: 20px;
+}
+
+.instructions-img {
+    height: 30vh!important;
+    border-radius: 5px;
+    border: 2px solid gray;
+}

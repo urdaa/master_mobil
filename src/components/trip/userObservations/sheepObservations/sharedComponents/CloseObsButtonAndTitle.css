@@ -1,0 +1,21 @@
+.close-button-title {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.close-title {
+    margin-left: 15px;
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-top: 7px;
+}
+
+.close-buttons {
+    margin-right: 15px;
+
+}
+
+.close-next-button {
+    margin-left: 15px;
+}

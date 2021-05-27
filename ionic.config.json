@@ -1,0 +1,7 @@
+{
+  "name": "mastersau",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

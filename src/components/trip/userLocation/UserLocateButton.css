@@ -1,0 +1,42 @@
+#locate-button {
+    z-index: 1001;
+    position: absolute;
+    left: 15px;
+    top: 125px;
+    margin: 0 auto;
+    --padding-end: 7px;
+    --padding-start: 7px;
+    --padding-bottom: 0px;
+    width: 44px;
+    height: 44px;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+#locate-icon {
+    font-size: 90px;
+}
+
+.leaflet-control-zoom-out {
+    font-size: 30px !important;
+    width: 40px !important;
+    height: 40px !important;
+    text-align: center !important;
+    line-height: 40px !important;
+}
+
+.leaflet-control-zoom-in {
+    font-size: 30px !important;
+    width: 40px !important;
+    height: 40px !important;
+    text-align: center !important;
+    line-height: 40px !important;
+}
+
+.leaflet-control-zoom {
+    width: 44px;
+    top: 10px !important;
+    left: 5px !important;
+}
+
+

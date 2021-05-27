@@ -1,0 +1,49 @@
+#main-logo {
+    max-width: 100px;
+    width: auto;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.top-content {
+    padding-top: 5vh;
+    text-align: center;
+}
+
+.bottom-content {
+    margin-bottom: 10vh;
+}
+
+.startup-button {
+    margin: auto;
+    margin-top: 25px;
+    display: block;
+    max-width: 200px;
+}
+
+.instructions-button {
+    margin: auto;
+    display: block;
+    max-width: 200px;
+    --border-color: black;
+    --color: black;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+p {
+    font-size: 1.3em;
+}
+
+
+
+

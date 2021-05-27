@@ -1,0 +1,74 @@
+{
+  "name": "mastersau",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@aws-amplify/ui-react": "^1.0.3",
+    "@capacitor/android": "^2.4.0",
+    "@capacitor/core": "2.4.0",
+    "@ionic-native/background-geolocation": "^5.28.0",
+    "@ionic-native/core": "^5.28.0",
+    "@ionic-native/device-orientation": "^5.29.0",
+    "@ionic-native/http": "^5.28.0",
+    "@ionic-native/native-audio": "^5.29.0",
+    "@ionic-native/vibration": "^5.29.0",
+    "@ionic/core": "^5.3.1",
+    "@ionic/react": "^5.0.7",
+    "@ionic/react-router": "^5.0.7",
+    "@mauron85/cordova-plugin-background-geolocation": "^3.1.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.4.0",
+    "@testing-library/user-event": "^8.0.3",
+    "@types/jest": "^24.0.25",
+    "@types/node": "^12.12.24",
+    "@types/react": "^16.9.17",
+    "@types/react-dom": "^16.9.4",
+    "@types/react-router": "^5.1.4",
+    "@types/react-router-dom": "^5.1.3",
+    "cordova-plugin-advanced-http": "^3.0.1",
+    "cordova-plugin-device-orientation": "^2.0.1",
+    "cordova-plugin-file": "^6.0.2",
+    "cordova-plugin-nativeaudio": "^3.0.9",
+    "cordova-plugin-vibration": "^3.1.1",
+    "ionicons": "^5.2.3",
+    "leaflet": "^1.6.0",
+    "react": "^16.13.0",
+    "react-color": "^2.19.3",
+    "react-dom": "^16.13.0",
+    "react-leaflet": "^2.7.0",
+    "react-router": "^5.1.2",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.0",
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "plugin:react-hooks/recommended"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@capacitor/cli": "2.4.0",
+    "aws-amplify": "^3.3.22",
+    "eslint-plugin-react-hooks": "^4.1.2"
+  },
+  "description": "An Ionic project"
+}

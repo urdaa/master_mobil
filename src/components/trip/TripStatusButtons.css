@@ -1,0 +1,48 @@
+#start-button {
+    z-index: 1001;
+    position: absolute;
+    left: 50%;
+    bottom: 20px;
+    transform: translate(-50%, -50%);
+    margin: 0 auto;
+}
+
+#continue-button {
+    z-index: 1001;
+    position: absolute;
+    left: 50%;
+    bottom: 50px;
+    transform: translate(-50%, -50%);
+    margin: 0 auto;
+}
+
+#finish-button {
+    z-index: 1001;
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    transform: translate(-50%, -50%);
+    margin: 0 auto;
+}
+
+#stop-button {
+    z-index: 1001;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    transform: translate(0, 0);
+    margin: 0 auto;
+    --border-radius: 100%;
+    --padding-end: 0px;
+    --padding-start: 0px;
+    width: 50px;
+    height: 50px;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    border-radius: 100%;
+}
+
+.stop-trip-icon {
+    height: 35px;
+    width: 35px;
+}

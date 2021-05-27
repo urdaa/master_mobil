@@ -1,0 +1,16 @@
+.misc-obs-div {
+    position: relative;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.misc-obs-div-content {
+    padding: 5%;
+}
+
+.misc-head {
+    font-size: 2em;
+    text-align: center;
+}
+
